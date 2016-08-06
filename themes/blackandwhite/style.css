@@ -1,0 +1,111 @@
+body {
+    background: #fff;
+    color: #000;
+    font-family: "Helvetica Neue";
+    font-weight: 200;
+    line-height: 200%;
+    margin-bottom: 200px;
+}
+
+.body-width {
+    margin: auto;
+    width: 600px;
+}
+
+/* Headers */
+
+h1, h2, h3, h4, h5 {
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 22;
+}
+
+h1#doc_lead {
+    margin-bottom: -30px;
+}
+
+h2 {
+    margin-top: 44px;
+    font-size: 38px;
+    font-weight: 200;
+}
+
+/* Text Decoration */
+
+b {
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    background: #eee;
+}
+
+a:hover {
+    color: #fff;
+    background: #000;
+}
+
+/* Navigation */
+
+.navigation-bg {
+    background: #eee;
+}
+
+div#navigation {
+    width: 600px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+div#navigation ul {
+    display: block;
+    list-style-type: none;
+    padding: 0;
+}
+
+div#navigation ul a {
+    font-size: 44px;
+    background: transparent;
+}
+
+div#navigation ul a:hover {
+    background: #000;
+}
+
+div#content {
+    margin-top: 55px;
+    margin-top: 100px;
+}
+
+/* OEmbed */
+
+figure {
+    text-align: center;
+}
+
+/* Essay List */
+
+ul.essay_list {
+    display: block;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.essay_list li.essay_item {
+    font-size: 44px;
+    margin-bottom: 25px;
+    line-height: 1.2;
+}
+
+li.essay_item a {
+    background: transparent;
+}
+
+li.essay_item a:hover {
+    color: #fff;
+    background: #000;
+}
