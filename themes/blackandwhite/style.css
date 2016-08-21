@@ -51,28 +51,34 @@ a:hover {
 
 /* Navigation */
 
-.navigation-bg {
-    background: #eee;
-}
-
 div#navigation {
     width: 600px;
+    height: 90px;
     padding-top: 100px;
-    padding-bottom: 100px;
+    border-bottom: 1px solid #000;
 }
 
 div#navigation ul {
-    display: block;
     list-style-type: none;
     padding: 0;
 }
 
+div#navigation ul li {
+    float: left;
+    float: right;
+    display: inline;
+    padding-left: 30px;
+}
+
+
 div#navigation ul a {
-    font-size: 44px;
+    display: block;
+    font-size: 22px;
     background: transparent;
 }
 
 div#navigation ul a:hover {
+    display: block;
     background: #000;
 }
 
