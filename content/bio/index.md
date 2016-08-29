@@ -3,7 +3,7 @@ title: Bio
 created_at: July 31, 2016
 ---
 
-## Career
+# Career
 
 I tend to stay near the creative side of tech; the places exploring things that aren't well understood. I think of it as where you find the things that haven't changed society yet.
 
@@ -11,7 +11,7 @@ I have worked with [Harvard Law School](http://law.harvard.edu/), [Calypso](http
 
 I have also been a startup investor / advisor for [Socratic](http://socratic.org/), [Sunrise](https://sunrise.am/) (acquired by Microsoft), [VHX](https://www.vhx.tv/) (acquired by Vimeo), [Lua](http://getlua.com/), [Thinglink](http://thinglink.com/), [Chromatik](https://www.chromatik.com/), and some others.
 
-## Programming
+# Programming
 
 I can program in a bunch of different languages. Lately it's been Python. Before that it was Swift, Obj-C, and Go.
 
@@ -21,7 +21,7 @@ One of the more rewarding aspects of open source is learning where your work tur
 
 I also have a computer science degree from [Northeastern University](http://www.ccs.neu.edu/). And I was in the first batch of [Recurse Center](https://www.recurse.com/), formerly known as _Hacker School_.
 
-## Other
+# Other
 
 I've played in bands for most of my life. I wrote a brief history of it [here](/music).
 
