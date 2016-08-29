@@ -19,7 +19,9 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-    font-size: 22;
+    margin-top: 44px;
+    font-size: 40px;
+    font-weight: 200;
 }
 
 h1#doc_lead {
@@ -28,7 +30,7 @@ h1#doc_lead {
 
 h2 {
     margin-top: 44px;
-    font-size: 38px;
+    font-size: 32px;
     font-weight: 200;
 }
 
