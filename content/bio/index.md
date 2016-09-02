@@ -7,9 +7,9 @@ created_at: July 31, 2016
 
 I tend to stay near the creative side of tech; the places exploring things that aren't well understood. I think of it as where you find the things that haven't changed society yet.
 
-I have worked with [Harvard Law School](http://law.harvard.edu/), [Calypso](http://calypso.com/), Bear Stearns, which became [JPMorgan](http://www.jpmorgansecurities.com/), [Johns Hopkins](http://www.clsp.jhu.edu/), [The Robin Hood Foundation](http://www.robinhood.org/), EXFM, [Venmo](https://venmo.com/), [VHX](https://www.vhx.tv/), and I used to run a consultancy called J2 Labs.
+I have worked with [Harvard Law School](http://law.harvard.edu/), [Calypso](http://calypso.com/), Bear Stearns, which became [JPMorgan](http://www.jpmorgansecurities.com/), [Johns Hopkins](http://www.clsp.jhu.edu/), [The Robin Hood Foundation](http://www.robinhood.org/), EXFM (_acquired by Microsoft_), [Venmo](https://venmo.com/) (_acquired by PayPal_), [VHX](https://www.vhx.tv/) (_acquired by Vimeo_), and I used to run a consultancy called J2 Labs.
 
-I have also been a startup investor / advisor for [Socratic](http://socratic.org/), [Sunrise](https://sunrise.am/) (acquired by Microsoft), [VHX](https://www.vhx.tv/) (acquired by Vimeo), [Lua](http://getlua.com/), [Thinglink](http://thinglink.com/), [Chromatik](https://www.chromatik.com/), and some others.
+I have also been a startup investor / advisor for [Socratic](http://socratic.org/), [Sunrise](https://sunrise.am/) (_acquired by Microsoft_), [VHX](https://www.vhx.tv/), [Lua](http://getlua.com/), [Thinglink](http://thinglink.com/), [Chromatik](https://www.chromatik.com/), and some others.
 
 Lately I spend my time working with [Qntfy](https://qntfy.com) to bring the mental health world closer together with the data science world.
 
