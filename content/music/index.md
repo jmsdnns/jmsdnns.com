@@ -49,9 +49,9 @@ There's a lot of music down there. I'd start with [Headfirst Dive](https://sound
 * [Forgot ID](https://soundcloud.com/firstfirstaidkit/sets/forgot-id)
 * [One Offs](https://soundcloud.com/firstfirstaidkit/sets/one-offs)
 
-**Counterfit** / 1996-1999 / _Guitar_
+**Counterfit** / 1996-2000 / _Guitar_
 
-* On The Downside
+* [On The Downside](https://soundcloud.com/jmsdnns/sets/counterfit-on-the-downside)
 * EP 2
 * EP 1
 
