@@ -14,7 +14,7 @@ Please watch this and then continue reading.
 
 This video says to me that the physical world truly does express itself as math. It's tempting to think about this for a moment and intuitively feel your way towards saying "yes, obviously", but keep thinking. Eventually, it becomes hard to see the universe as bound by the simple laws we observe, because it's precisely when we are not observing that we get the best glimpse at how it makes decisions.
 
-One interesting consideration, is that the physical world seems to avoid making decisions when it doesn't have to. It expresses the probabilities of particular outcomes as probabilities, unless it has to collapse this into some actual answer that can be observed. This is the notion behind Schrödinger's Cat, but that always seemed so theoretical, until I learned about this experiment. I had no idea any of that was actually observable...
+One interesting consideration, is that the physical world seems to avoid making decisions when it doesn't have to. It expresses the probabilities of particular outcomes as probabilities, unless it has to collapse this into some actual answer that can be observed. This is the notion behind Schr&ouml;dinger's Cat, but that always seemed so theoretical, until I learned about this experiment. I had no idea any of that was actually observable...
 
 I've been somewhere between agnostic and atheist for most of my life because I don't accept truths without some kind of scientific approach to confirming the ideas. And here we see probabilities of physical outcomes literally splattered on a plainly observable wall.
 
