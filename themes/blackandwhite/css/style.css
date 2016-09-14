@@ -1,10 +1,11 @@
 body {
     background: #fff;
     color: #000;
-    font-family: "Helvetica Neue";
-    font-weight: 200;
+    font-family: "Avenir", "Helvetica Neue";
+    font-weight: 300;
     line-height: 200%;
     margin-bottom: 200px;
+    font-size: 12pt;
 }
 
 .body-width {
@@ -13,6 +14,13 @@ body {
 }
 
 /* Headers */
+
+a#logo {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
 
 h1, h2, h3, h4, h5 {
     font-weight: 100;
@@ -44,6 +52,10 @@ a {
     text-decoration: none;
     color: #000;
     background: #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    padding-left: 2px;
+    padding-right: 2px;
 }
 
 a:hover {
@@ -104,8 +116,8 @@ ul.essay_list {
 }
 
 ul.essay_list li.essay_item {
-    font-size: 44px;
-    margin-bottom: 25px;
+    font-size: 38px;
+    margin-bottom: 35px;
     line-height: 1.2;
 }
 
