@@ -4,6 +4,8 @@ published_at: December 26, 2014 4:00 PM
 updated_at: December 26, 2014 4:00 PM
 ---
 
+# Some Thoughts On Operating Systems
+
 I've run [FreeBSD](https://www.freebsd.org/), [OpenBSD](https://www.openbsd.org/), many Linuxs, and OSX at various times in my life. I was fortunate enough to get into computers late, late enough that Linux had already taken over the minds of my friends, and I more or less skipped Windows.
 
 ## Starting

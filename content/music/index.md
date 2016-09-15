@@ -3,9 +3,11 @@ title: Music
 created_at: July 31, 2016
 ---
 
+# Music
+
 My mom took me to see Metallica for my 12th birthday and I thought, _"Yup. That's what I wanna do."_ I had my first band two years later and I've played in bands ever since.
 
-I started playing guitar when I was 12. I picked up drums around 2012. 
+I started playing guitar when I was 12. I picked up drums around 2012.
 
 I currently play drums in [Adventure Capitalists](https://www.adcap.biz/) and [Medio](https://www.facebook.com/mediosound/).
 

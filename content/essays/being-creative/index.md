@@ -4,7 +4,7 @@ published_at: August 19, 2015 1:24 PM
 updated_at: August 19, 2015 1:24 PM
 ---
 
-## The Experience Of Being Creative
+# The Experience Of Being Creative
 
 Software developers know it is common, if not the norm, to be asked to do something they have never done before. The solutions will somehow appear in their mind. One random thought leads to another and for some reason that leads to an idea that solves a problem.
 

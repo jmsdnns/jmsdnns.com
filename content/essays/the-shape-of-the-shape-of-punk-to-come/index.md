@@ -4,6 +4,8 @@ published_at: July 13, 2015 10:26 AM
 updated_at: July 13, 2015 10:26 AM
 ---
 
+# The shape of The Shape Of Punk To Come
+
 I've been listening to [Refused - Freedom](https://open.spotify.com/album/5v1nEWLED30iSsHfkrF34f) a lot. I tried to avoid forming any real opinions until I had listened to it a few times. I'm now at a point where I love the record.
 
 I had to think through some things and pull back some of the pressure of trying to follow up The Shape Of Punk To Come to get there. They were kids when they put that record out. Kids just trying to have fun and not thinking too hard about what they did, which is surely why the record feels like a work of genius.

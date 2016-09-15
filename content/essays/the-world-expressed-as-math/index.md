@@ -4,6 +4,8 @@ published_at: June 16, 2016 9:30 AM
 updated_at: June 16, 2016 9:30 AM
 ---
 
+# The World, Expressed As Math
+
 I studied some physics in undergrad. I was mostly focused on computers, so I didn't take physics beyond the requirements of a computer science degree, which meant things like oscillation, waves, and the very beginning of quantum physics.
 
 We never covered the Double Slit Experiment, so here I am, 15 years out of college, and I recently had my mind blown by it.

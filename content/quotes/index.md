@@ -3,7 +3,9 @@ title: Quotes
 created_at: July 31, 2016
 ---
 
-Quotes are a great way to gain insight into the minds of others. So much personality packed into the tight confines of a sentence or two. Below are some of my favorites.
+# Quotes
+
+These are some of my favorite quotes. So much personality packed into the tight confines of a sentence or two!
 
 _"Argue for your limitations, and sure enough, they're yours."_
 - **Richard Bach**

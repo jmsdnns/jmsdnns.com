@@ -4,6 +4,8 @@ published_at: July 25, 2014 2:05 AM
 updated_at: July 25, 2014 2:05 AM
 ---
 
+# A Go Rabbit Hole
+
 I am coming up from a rabbit hole. This is the story of how I went down it in the first place.
 
 Since February, I have been doing Objective-C exclusively. It took a while to learn, but once I got the hang of it I got curious about how people build servers lately. I had spent a lot of time with Python but was feeling bored with it. I figured I'd learn Go.
