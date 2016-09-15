@@ -7,23 +7,27 @@
 </head>
 
 <body>
-    <div id="navigation-box" class="navigation-bg">
-        <div id="navigation" class="body-width">
-            <a id="logo" href="/"><img src="/img/logo-jmsdnns.png" /></a>
 
+    <div id="header" class="body-width">
+        <div id="header-logo">
+            <img id="logo" src="/img/logo-jmsdnns.png" />
+        </div>
+
+        <div id="navigation">
             <ul>
-                <li><a href="/quotes/">Quotes</a></li>
-                <li><a href="/music/">Music</a></li>
-                <li><a href="/essays/">Essays</a></li>
                 <li><a href="/bio/">Bio</a></li>
+                <li><a href="/essays/">Essays</a></li>
+                <li><a href="/music/">Music</a></li>
+                <li><a href="/quotes/">Quotes</a></li>
             </ul>
         </div>
     </div>
 
     <div id="content" class="body-width">
 
-        {{ content }}
+        {{ content }}        
 
     </div>
+
 </body>
 </html>
