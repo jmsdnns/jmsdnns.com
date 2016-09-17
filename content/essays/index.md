@@ -1,4 +1,4 @@
 ---
 title: Essays
-plugin: essays_list
+plugin: essays
 ---
