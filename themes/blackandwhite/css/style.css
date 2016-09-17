@@ -109,6 +109,8 @@ figure {
     margin: 0px;
 }
 
+/* Essays Plugin */
+
 ul.essay_list {
     display: block;
     list-style-type: none;
@@ -118,7 +120,7 @@ ul.essay_list {
 ul.essay_list li.essay_item {
     font-size: 40px;
     line-height: 1.2;
-    margin-bottom: 35px;
+    margin-bottom: -10;
 }
 
 li.essay_item a {
@@ -130,4 +132,10 @@ li.essay_item a {
 li.essay_item a:hover {
     color: #fff;
     background: #000;
+}
+
+li.essay_meta {
+    font-size: 12px;
+    margin-bottom: 35px;
+    color: #666;
 }
