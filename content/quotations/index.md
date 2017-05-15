@@ -1,14 +1,17 @@
 ---
-title: Quotes
+title: Quotations
 created_at: July 31, 2016
 ---
 
-# Quotes
+# Quotations
 
 These are some of my favorite quotes. So much personality packed into the tight confines of a sentence or two!
 
 _"Argue for your limitations, and sure enough, they're yours."_
 - **Richard Bach**
+
+_"I was smart enough to go through any door that opened."_
+- **Joan Rivers**
 
 _"It is the mark of an educated mind to be able to entertain a thought without accepting it."_
 - **Aristotle**
@@ -22,6 +25,9 @@ _"It's true, the early bird does get the worm, but the second mouse gets the che
 _"Whether you think that you can, or that you can't, you are usually right."_
 - **Henry Ford**
 
+_"I'd rather regret the things I've done than regret the things I haven't done."_
+- **Lucille Ball**
+
 _"The artist is nothing without the gift, but the gift is nothing without work."_
 - **Emile Zola**
 
@@ -30,6 +36,12 @@ _"I find that the harder I work, the more luck I seem to have."_
 
 _"Each problem that I solved became a rule which served afterwards to solve other problems."_
 - **Rene Descartes**
+
+_"Normal is not something to aspire to, it's something to get away from."_
+- **Jodie Foster**
+
+_"You have trust in what you think. If you splinter yourself and try to please everyone, you can't."_
+- **Annie Leibovitz**
 
 _"A mathematician is a device for turning coffee into theorems."_
 - **Paul Erdos**
@@ -40,6 +52,9 @@ _"If you can't get rid of the skeleton in your closet, you'd best teach it to da
 _"We have art to save ourselves from the truth."_
 - **Friedrich Nietzsche**
 
+_"When you're through changing, you're through."_
+- **Martha Stewart**
+
 _"The difference between 'involvement' and 'commitment' is like an eggs-and-ham breakfast: the chicken was 'involved' - the pig was 'committed'."_
 - **Unknown**
 
@@ -48,6 +63,9 @@ _"If you are going through hell, keep going."_
 
 _"When you do the common things in life in an uncommon way, you will command the attention of the world."_
 - **George Washington Carver**
+
+_"If I had to live my life again, I’d make the same mistakes, only sooner."_
+- Tallulah Bankhead
 
 _"Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact."_
 - **George Eliot**
