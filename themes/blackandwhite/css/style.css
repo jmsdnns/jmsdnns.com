@@ -1,10 +1,10 @@
 body {
-    background: #fff;
-    color: #000;
-    font-family: "Avenir", "Helvetica Neue";
-    font-size: 12pt;
+    background: #2E3440;
+    color: #D8DEE9;
+    font-family: "Montserrat", "Helvetica Neue";
     font-weight: 300;
-    line-height: 200%;
+    font-size: 12pt;
+    line-height: 180%;
     margin: 0 auto;
     padding: 0;
 }
@@ -17,7 +17,7 @@ body {
 /* Headers */
 
 h1, h2, h3, h4, h5 {
-    font-weight: 100;
+    font-weight: 300;
     line-height: 1.2;
 }
 
@@ -31,14 +31,13 @@ h2 {
 
 /* Text Decoration */
 
-b {
+b, strong {
     font-weight: 400;
 }
 
 a {
     text-decoration: none;
-    color: #000;
-    background: #eee;
+    color: #81A1C1;
     margin-left: -2px;
     margin-right: -2px;
     padding-left: 2px;
@@ -47,56 +46,44 @@ a {
 
 a:hover {
     color: #fff;
-    background: #000;
+    background: #81A1C1;
+}
+
+code {
+    font-family: "Inconsolata";
 }
 
 /* Header */
 
 div#header {
     width: 600px;
-    margin-top: 0;
-    margin-top: 50;
-    margin-bottom: 0;
+    font-size: 16pt;
+    margin-top: 10px;
+    margin-bottom: 20px;
     padding: 0;
 }
 
-div#header-logo {
-    padding-top: 35px;
-    height: 78px;
-}
-
-div#navigation {
-    margin-top: 25px;
-    margin-bottom: 50px;
-    height: 36px;
-    line-height: 40px;
-    border-bottom: 1px solid #000;
-}
-
-div#navigation ul {
+div#header ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
 
-div#navigation ul li {
+div#header ul li {
     float: left;
-    width: 25%;
+    margin-right: 25px;
 }
 
-div#navigation ul a {
-    display: block;
+div#header ul a {
     height: 100%;
     margin: 0;
     padding: 0;
-    color: #000;
-    background: transparent; /* turn off gray link bg */
-    font-size: 22px;
+    color: #81A1C1;
 }
 
-div#navigation ul a:hover {
+div#header ul a:hover {
     color: #fff;
-    background: #000;
+    background: #81A1C1;
 }
 
 /* Content */
@@ -115,6 +102,7 @@ ul.essay_list {
     display: block;
     list-style-type: none;
     padding-left: 0;
+    margin-top: 27px;
 }
 
 ul.essay_list li.essay_item {
@@ -131,7 +119,7 @@ li.essay_item a {
 
 li.essay_item a:hover {
     color: #fff;
-    background: #000;
+    background: #81A1C1;
 }
 
 li.essay_meta {
