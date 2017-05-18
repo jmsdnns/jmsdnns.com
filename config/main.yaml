@@ -2,3 +2,5 @@
 content_dir: "./content"
 output_dir: "./html"
 theme_dir: "./themes/navi"
+plugins:
+    - essays
