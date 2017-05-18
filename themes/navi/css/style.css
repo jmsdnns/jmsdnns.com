@@ -105,24 +105,24 @@ ul.essay_list {
     margin-top: 27px;
 }
 
-ul.essay_list li.essay_item {
+ul.essay_list li.essay_title {
     font-size: 40px;
     line-height: 1.2;
     margin-bottom: -10;
 }
 
-li.essay_item a {
+li.essay_title a {
     background: transparent;
     margin: 0;
     padding: 0;
 }
 
-li.essay_item a:hover {
+li.essay_title a:hover {
     color: #fff;
     background: #81A1C1;
 }
 
-li.essay_meta {
+li.essay_date {
     font-size: 10pt;
     margin-bottom: 35px;
     color: #666;
