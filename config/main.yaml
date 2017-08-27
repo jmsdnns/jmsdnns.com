@@ -3,4 +3,4 @@ content_dir: "./content"
 output_dir: "./html"
 theme_dir: "./themes/nordic"
 plugins:
-- essays
+    - essays

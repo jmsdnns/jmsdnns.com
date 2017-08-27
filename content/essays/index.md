@@ -1,5 +1,5 @@
 ---
 title: Essays
 plugin: essays
-template: "essays/base.html"
+template: essays/base.html
 ---
