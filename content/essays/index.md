@@ -1,4 +1,5 @@
 ---
 title: Essays
-app: essays
+plugin: essays
+template: "essays/base.html"
 ---
