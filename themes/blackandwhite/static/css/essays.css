@@ -1,0 +1,31 @@
+/* Essays Plugin */
+
+ul.essay_list {
+    display: block;
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 27px;
+}
+
+ul.essay_list li.essay_item {
+    font-size: 40px;
+    line-height: 1.2;
+    margin-bottom: -10;
+}
+
+li.essay_item a {
+	background: transparent;
+	margin: 0;
+	padding: 0;
+}
+
+li.essay_item a:hover {
+    color: #fff;
+    background: #81A1C1;
+}
+
+li.essay_meta {
+    font-size: 10pt;
+    margin-bottom: 35px;
+    color: #666;
+}
