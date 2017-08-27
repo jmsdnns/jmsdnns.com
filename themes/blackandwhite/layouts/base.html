@@ -4,6 +4,7 @@
     <title>Jms Dnns</title>
     <link rel="stylesheet" type="text/css" href="/static/css/style.css">
     <meta name="viewport" content="width=700;" />
+{% block head_extra %}{% endblock %}
 </head>
 
 <body>
@@ -25,7 +26,7 @@
 
     <div id="content" class="body-width">
 
-        {{ content }}        
+{% block body_content %}{{ content }}{% endblock %}        
 
     </div>
 
